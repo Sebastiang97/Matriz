@@ -57,13 +57,15 @@ table{
 
 th{
     text-align: center;
-    font-weight: 400;
     background-color: #d8e0ef;
+    font-size: 18px;
+    font-weight: 600;
 }
 
 td{
     text-align: center;
     padding: 10px;
+    font-weight: 300;
 }
  
 #footer{
