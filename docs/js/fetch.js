@@ -1,7 +1,7 @@
 
 const getData = async () =>{
     
-    const f = await fetch('https://sebastiang97.github.io/Gif_q/a.json');
+    const f = await fetch('https://sebastiang97.github.io/Matriz/data/database.json');
     const res = await f.json();
     return res;
     
